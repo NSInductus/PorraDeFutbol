@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 class Apuesta:
     ''' Esta clase define una apuesta de fútbol '''
 

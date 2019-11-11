@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+
+from apuesta import Apuesta
 from partido import Partido
 from partido import EstadoPartido
 
