@@ -1,3 +1,10 @@
-language: minimal
+language: python
 
-script: /bin/true
+python:
+    - "3.6.8"
+
+before_install:
+    - pip3 install -r requirements.txt
+
+script:
+    - invoke test
