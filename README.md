@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.com/Solano96/PorraDeFutbol.svg?branch=master)](https://travis-ci.com/Solano96/PorraDeFutbol)
+[![codecov](https://codecov.io/gh/Solano96/PorraDeFutbol/branch/master/graph/badge.svg)](https://codecov.io/gh/Solano96/PorraDeFutbol)
+
 # Porra de fútbol
 
 Proyecto realizado por:
