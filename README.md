@@ -1,5 +1,8 @@
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 [![Build Status](https://travis-ci.com/Solano96/PorraDeFutbol.svg?branch=master)](https://travis-ci.com/Solano96/PorraDeFutbol)
 [![codecov](https://codecov.io/gh/Solano96/PorraDeFutbol/branch/master/graph/badge.svg)](https://codecov.io/gh/Solano96/PorraDeFutbol)
+[![DevQAGRX](https://img.shields.io/badge/DevQAGRX-blueviolet?style=for-the-badge&logo=Git)](https://github.com/JJ/curso-tdd)    
+
 
 # Porra de fútbol
 
